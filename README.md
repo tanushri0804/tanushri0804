@@ -15,11 +15,11 @@ I am eager to continue learning and growing, with a strong focus on enhancing us
 - 🧑‍ {( I have always had the ability to look at things from a different perspective and try to find something new in them. I hope that with every new day, I get more than one chance to learn everything, which will make me very happy. New technologies have always been an inspiration to learn and at the same time get an opportunity to learn something from them. )}
 - 👨🏽‍💻 {( Currently growing my skillset in [Machine Learning](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/) and [Data Science](https://www.ibm.com/in-en/analytics/data-science?utm_content=SRCWW&p1=Search&p4=43700052658080620&p5=e&gclid=CjwKCAjwjtOTBhAvEiwASG4bCOOPlVssk_4G8dh6UR3f61_GTWuGGigy4KQbieXS3AWBz5gug98I-BoCxI8QAvD_BwE&gclsrc=aw.ds). )}
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanushri&label=Profile%20views&color=32CD32&style=flat" alt="akankushjnvku" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanushri&label=Profile%20views&color=32CD32&style=flat" alt="tanushri0804" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 ### `Coding Profiles:`
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/akankushjnvku/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/tanushri0804/)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/akankush2000/profile)
 [![work@tech](https://img.shields.io/badge/-work@tech-blue?style=flat&amp;labelColor=white&amp;logo=work@tech&amp;logoColor=blue)](https://workat.tech/profile)
 [![binarysearch](https://img.shields.io/badge/-binarysearch-darkblue?style=flat&amp;labelColor=white&amp;logo=binarysearch&amp;logoColor=darkblue)](https://binarysearch.com)
@@ -101,15 +101,15 @@ technologies to meet future requirements.</br>
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/akankushjnvku/account)
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://github.com/akankushjnvku)
+[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/tanushri0804/account)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://github.com/tanushri0804)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ankush-kumar-06b22b191/)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@ak.ankush2000)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/akankushjnvku)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/tanushri0804)
 </p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akankushjnvku" alt="Ankush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akankushjnvku&show_icons=true&theme=radical" alt="Ankush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankushjnvku&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a> | 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanushri0804" alt="Ankush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tanushri0804&show_icons=true&theme=radical" alt="Ankush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"> 
 
 
 

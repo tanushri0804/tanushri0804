@@ -20,7 +20,7 @@ I am eager to continue learning and growing, with a strong focus on enhancing us
 
 ### `Coding Profiles:`
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/tanushri0804/)
-[![GeeksforGeeks]([https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen](https://www.geeksforgeeks.org/user/tanushrfi4a/?ref=header_profile))]
+[![GeeksforGeeks](https://play-lh.googleusercontent.com/ZI21NMObsjB7DbPU_EXRymHJL3HQpfsrB2N4CWb-diXm4xjl_13mmetYQZvcpgGf-64)]([https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen](https://www.geeksforgeeks.org/user/tanushrfi4a/?ref=header_profile))]
 [![binarysearch](https://img.shields.io/badge/-binarysearch-darkblue?style=flat&amp;labelColor=white&amp;logo=binarysearch&amp;logoColor=darkblue)](https://binarysearch.com)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&amp;labelColor=white&amp;logo=hackerrank&amp;logoColor=green)](https://www.hackerrank.com/ak_ankush2000)
 [![HackerEarth](https://img.shields.io/badge/-HackerEarth-650458?style=flat&amp;labelColor=white&amp;logo=hackerearth&amp;logoColor=650458)](https://www.hackerearth.com)

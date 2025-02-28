@@ -26,8 +26,7 @@ I am eager to continue learning and growing, with a strong focus on enhancing us
 [![HackerEarth](https://img.shields.io/badge/-HackerEarth-650458?style=flat&labelColor=white&logo=hackerearth&logoColor=650458)](https://www.hackerearth.com)
 [![InterviewBit](https://img.shields.io/badge/-InterviewBit-blue?style=flat&labelColor=white&logo=interviewbit&logoColor=blue)](https://www.interviewbit.com)
 [![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&labelColor=white&logo=codingninjas&logoColor=orange)](https://www.codingninjas.com)
-[![Connect on StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&labelColor=white&logo=StackOverflow&logoColor=FE7A16)](https://stackoverflow.com)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&labelColor=white&logo=kaggle&logoColor=blue)](https://www.kaggle.com)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&labelColor=white&logo=kaggle&logoColor=blue)]([https://www.kaggle.com](https://www.kaggle.com/tanushri08))
 
 
 - 🌱 I’m currently in love with <b>Designing</b>
@@ -53,9 +52,8 @@ technologies to meet future requirements.</br>
 
 
 - any collobration work,
-- machine learning projects(development or research),
+- Web Development Work,
 - research internships and
-- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
 
 <details>
    <summary>📃 Resume</summary>

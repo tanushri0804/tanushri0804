@@ -19,15 +19,15 @@ I am eager to continue learning and growing, with a strong focus on enhancing us
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 ### `Coding Profiles:`
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&labelColor=black&logo=leetcode&logoColor=orange)](https://leetcode.com/tanushri0804/)  
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&labelColor=white&logo=geeksforgeeks&logoColor=darkgreen)](https://www.geeksforgeeks.org/user/tanushrfi4a/?ref=header_profile)  
-[![binarysearch](https://img.shields.io/badge/-binarysearch-darkblue?style=flat&labelColor=white&logo=binarysearch&logoColor=darkblue)](https://binarysearch.com)  
-[![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&labelColor=white&logo=hackerrank&logoColor=green)](https://www.hackerrank.com/ak_ankush2000)  
-[![HackerEarth](https://img.shields.io/badge/-HackerEarth-650458?style=flat&labelColor=white&logo=hackerearth&logoColor=650458)](https://www.hackerearth.com)  
-[![InterviewBit](https://img.shields.io/badge/-InterviewBit-blue?style=flat&labelColor=white&logo=interviewbit&logoColor=blue)](https://www.interviewbit.com)  
-[![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&labelColor=white&logo=codingninjas&logoColor=orange)](https://www.codingninjas.com)  
-[![Connect on StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&labelColor=white&logo=StackOverflow&logoColor=FE7A16)](https://stackoverflow.com)  
-[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&labelColor=white&logo=kaggle&logoColor=blue)](https://www.kaggle.com)  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&labelColor=black&logo=leetcode&logoColor=orange)](https://leetcode.com/tanushri0804/)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&labelColor=white&logo=geeksforgeeks&logoColor=darkgreen)](https://www.geeksforgeeks.org/user/tanushrfi4a/?ref=header_profile)
+[![binarysearch](https://img.shields.io/badge/-binarysearch-darkblue?style=flat&labelColor=white&logo=binarysearch&logoColor=darkblue)](https://binarysearch.com)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&labelColor=white&logo=hackerrank&logoColor=green)](https://www.hackerrank.com/ak_ankush2000)
+[![HackerEarth](https://img.shields.io/badge/-HackerEarth-650458?style=flat&labelColor=white&logo=hackerearth&logoColor=650458)](https://www.hackerearth.com)
+[![InterviewBit](https://img.shields.io/badge/-InterviewBit-blue?style=flat&labelColor=white&logo=interviewbit&logoColor=blue)](https://www.interviewbit.com)
+[![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&labelColor=white&logo=codingninjas&logoColor=orange)](https://www.codingninjas.com)
+[![Connect on StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&labelColor=white&logo=StackOverflow&logoColor=FE7A16)](https://stackoverflow.com)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&labelColor=white&logo=kaggle&logoColor=blue)](https://www.kaggle.com)
 
 
 - 🌱 I’m currently in love with <b>Designing</b>

@@ -13,15 +13,14 @@ I am eager to continue learning and growing, with a strong focus on enhancing us
 - 💻 {( Currently I am pursuing B.TECH in Computer Science And Engineering at [Roorkee College Of Engineering
 (https://www.rceroorkee.in/)-Roorkee. )}
 - 🧑‍ {( I have always had the ability to look at things from a different perspective and try to find something new in them. I hope that with every new day, I get more than one chance to learn everything, which will make me very happy. New technologies have always been an inspiration to learn and at the same time get an opportunity to learn something from them. )}
-- 👨🏽‍💻 {( Currently growing my skillset in [Machine Learning](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/) and [Data Science](https://www.ibm.com/in-en/analytics/data-science?utm_content=SRCWW&p1=Search&p4=43700052658080620&p5=e&gclid=CjwKCAjwjtOTBhAvEiwASG4bCOOPlVssk_4G8dh6UR3f61_GTWuGGigy4KQbieXS3AWBz5gug98I-BoCxI8QAvD_BwE&gclsrc=aw.ds). )}
+- 👨🏽‍💻 {( Currently growing my skillset in [Full Stack Development]([https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/](https://www.geeksforgeeks.org/what-is-full-stack-development/)) and [Artificial Intelligence]([https://www.ibm.com/in-en/analytics/data-science?utm_content=SRCWW&p1=Search&p4=43700052658080620&p5=e&gclid=CjwKCAjwjtOTBhAvEiwASG4bCOOPlVssk_4G8dh6UR3f61_GTWuGGigy4KQbieXS3AWBz5gug98I-BoCxI8QAvD_BwE&gclsrc=aw.ds](https://cloud.google.com/learn/what-is-artificial-intelligence#:~:text=Artificial%20intelligence%20(AI)%20is%20a,%2C%20make%20recommendations%2C%20and%20more.)). )}
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanushri&label=Profile%20views&color=32CD32&style=flat" alt="tanushri0804" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 ### `Coding Profiles:`
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/tanushri0804/)
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/akankush2000/profile)
-[![work@tech](https://img.shields.io/badge/-work@tech-blue?style=flat&amp;labelColor=white&amp;logo=work@tech&amp;logoColor=blue)](https://workat.tech/profile)
+[![GeeksforGeeks]([https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen](https://www.geeksforgeeks.org/user/tanushrfi4a/?ref=header_profile))]
 [![binarysearch](https://img.shields.io/badge/-binarysearch-darkblue?style=flat&amp;labelColor=white&amp;logo=binarysearch&amp;logoColor=darkblue)](https://binarysearch.com)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&amp;labelColor=white&amp;logo=hackerrank&amp;logoColor=green)](https://www.hackerrank.com/ak_ankush2000)
 [![HackerEarth](https://img.shields.io/badge/-HackerEarth-650458?style=flat&amp;labelColor=white&amp;logo=hackerearth&amp;logoColor=650458)](https://www.hackerearth.com)
@@ -61,14 +60,12 @@ technologies to meet future requirements.</br>
    <summary>📃 Resume</summary>
 
  ## Education
- - 📍 **Uttarakhand Technical University**-----------------------**< 2019-2023 >**\
- 📖**Bachelor's of technology-< Information Technology >**
+ - 📍 **Uttarakhand Technical University**-----------------------**< 2021-2025 >**\
+ 📖**Bachelor's of technology-< Computer Science And Engineering >**
  
- - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**------------------**< 2017-2019 >**\
+ - 📍 **Chandra Shaikhar Sr. Sec. Public School**------------------**< 2020-2021 >**\
    📖**Senior Secondary Schooling-< Intermediate Science >**
  
- - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**------------------**< 2012-2017 >**\
-   📖**Secondary Schooling**
  
    
    

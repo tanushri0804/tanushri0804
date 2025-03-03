@@ -29,10 +29,10 @@ I am eager to continue learning and growing, with a strong focus on enhancing us
 
 - 🌱 I’m currently in love with <b>Designing</b>
 - 🔭 Simultaneously exploring <b>Web3</b>
-- 💬 Ask me about **Web Development** , **Open Source Contributions** and **Internships**
+- 💬 Ask me about **Web Development** , **Designing** and **Internships**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 Reach me at : **tanushri98371@gmail.com**
-- ⚡ Fun fact: I love designing and travelling to explore new places.
+- ⚡ Fun fact: I love designing , Reading Books and travelling to explore new places.
 - ❤️ Building a community to make an impact by training new generations on cutting edge \
 technologies to meet future requirements.</br>
 

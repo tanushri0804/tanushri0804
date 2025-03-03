@@ -6,7 +6,7 @@
 
 ### Hi there, I'm [Tanu Shri](https://www.linkedin.com/in/tanu-shri-76b7a1242)👋🏻 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
-I am passionate about leveraging my skills in web and software development to create meaningful contributions in the tech industry. Proficient in HTML, CSS, JavaScript, and Python, I have hands-on experience developing responsive web applications and translating user needs into intuitive and engaging designs using tools like Figma and Adobe XD.
+I am passionate about leveraging my skills in web and software development to create meaningful contributions in the tech industry. Proficient in HTML, CSS, JavaScript, and React, I have hands-on experience developing responsive web applications and translating user needs into intuitive and engaging designs using tools like Figma and Adobe XD.
 I am eager to continue learning and growing, with a strong focus on enhancing user experiences through innovative projects. Seeking opportunities to apply my skills and gain valuable hands-on experience in the world of tech.
 
 
@@ -19,12 +19,10 @@ I am eager to continue learning and growing, with a strong focus on enhancing us
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 ### `Coding Profiles:`
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&labelColor=black&logo=leetcode&logoColor=orange)](https://leetcode.com/tanushri0804/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&labelColor=black&logo=leetcode&logoColor=orange)](https://leetcode.com/u/tanu_shri_/)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&labelColor=white&logo=geeksforgeeks&logoColor=darkgreen)](https://www.geeksforgeeks.org/user/tanushrfi4a/?ref=header_profile)
-[![binarysearch](https://img.shields.io/badge/-binarysearch-darkblue?style=flat&labelColor=white&logo=binarysearch&logoColor=darkblue)](https://binarysearch.com)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&labelColor=white&logo=hackerrank&logoColor=green)](https://www.hackerrank.com/ak_ankush2000)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&labelColor=white&logo=hackerrank&logoColor=green)](https://www.hackerrank.com/profile/tanushri98371)
 [![HackerEarth](https://img.shields.io/badge/-HackerEarth-650458?style=flat&labelColor=white&logo=hackerearth&logoColor=650458)](https://www.hackerearth.com)
-[![InterviewBit](https://img.shields.io/badge/-InterviewBit-blue?style=flat&labelColor=white&logo=interviewbit&logoColor=blue)](https://www.interviewbit.com)
 [![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&labelColor=white&logo=codingninjas&logoColor=orange)](https://www.codingninjas.com)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&labelColor=white&logo=kaggle&logoColor=blue)]([https://www.kaggle.com](https://www.kaggle.com/tanushri08))
 
@@ -70,21 +68,21 @@ technologies to meet future requirements.</br>
    
    
  ## Experience
- -  👨‍💻 **Back-end Developer**---------------------------< Internship >\
- 📆 Feb,2022 - moment\
-📍 **Youth India Foundation** - New Delhi, India
+ -  👨‍💻 **Bull-stack web development**---------------------------< Training >\
+ 📆 Oct,2024 - Ongoing\
+📍 **Masai School** 
    
- -  👨‍💻 **Open Source Contributor**----------------------< Apprenticeship >\
-   📆 Feb,2022 - moment\
-   📍 **GirlScript Summer of Code** - Maharashtra, India
+ -  👨‍💻 **Android Developer**----------------------< Virtual Internship >\
+   📆 Apr,2024 - June,2024\
+   📍 **EduSkills**
    
- -  👨‍💻 **Owner**------------------------------------------< Founder >\
-   📆 Oct,2020 - moment\
-   📍 **Mackph.com** - Roorkee, India
+ -  👨‍💻 **Front-End Development**------------------------------------------< Internship >\
+   📆 June,2023 - July,2023\
+   📍 **IBM SkillsBuild | AICTE** 
    
- -  👨‍💻 **Internshala Student Partner (ISP 16)**-------------< Part Time >\
-   📆 Dec,2019 - Jun,2020\
-   📍 **Internshala** - Roorkee, India
+ -  👨‍💻 **Generative AI**-------------<  Virtual Internship >\
+   📆 July,2014 - Sep,2024\
+   📍 **EduSkills** 
 
    </details>
    

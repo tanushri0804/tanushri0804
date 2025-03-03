@@ -97,7 +97,7 @@ technologies to meet future requirements.</br>
 [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/tanushri0804/account)
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://github.com/tanushri0804)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tanu-shri-76b7a1242)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/tanu_shrii08)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/tanu_shrii.08)
 </p>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanushri0804" alt="Tanu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tanushri0804&show_icons=true&theme=radical" alt="Tanu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"> 

@@ -22,7 +22,6 @@ I am eager to continue learning and growing, with a strong focus on enhancing us
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&labelColor=black&logo=leetcode&logoColor=orange)](https://leetcode.com/u/tanu_shri_/)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&labelColor=white&logo=geeksforgeeks&logoColor=darkgreen)](https://www.geeksforgeeks.org/user/tanushrfi4a/?ref=header_profile)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&labelColor=white&logo=hackerrank&logoColor=green)](https://www.hackerrank.com/profile/tanushri98371)
-[![HackerEarth](https://img.shields.io/badge/-HackerEarth-650458?style=flat&labelColor=white&logo=hackerearth&logoColor=650458)](https://www.hackerearth.com)
 [![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&labelColor=white&logo=codingninjas&logoColor=orange)](https://www.codingninjas.com)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&labelColor=white&logo=kaggle&logoColor=blue)]([https://www.kaggle.com](https://www.kaggle.com/tanushri08))
 
